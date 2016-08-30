@@ -20,4 +20,4 @@ for a in range(3, rg + 1):
     print(style.format(a, i_n))
     i_1 = i_2
     i_2 = i_n
-(a)
+    (a)
